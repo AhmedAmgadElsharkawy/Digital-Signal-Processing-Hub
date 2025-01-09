@@ -1,0 +1,3 @@
+[submodule "Signal-Equalizer"]
+	path = Signal-Equalizer
+	url = https://github.com/AhmedAmgadElsharkawy/Signal-Equalizer.git
