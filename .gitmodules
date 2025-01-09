@@ -1,3 +1,18 @@
 [submodule "Signal-Equalizer"]
 	path = Signal-Equalizer
 	url = https://github.com/AhmedAmgadElsharkawy/Signal-Equalizer.git
+[submodule "Beamforming-Simulator"]
+	path = Beamforming-Simulator
+	url = https://github.com/AhmedAmgadElsharkawy/Beamforming-Simulator.git
+[submodule "Fingerprint"]
+	path = Fingerprint
+	url = https://github.com/AhmedAmgadElsharkawy/Fingerprint.git
+[submodule "Sampling-Theory-Studio"]
+	path = Sampling-Theory-Studio
+	url = https://github.com/AhmedAmgadElsharkawy/Sampling-Theory-Studio.git
+[submodule "FT-Mixer"]
+	path = FT-Mixer
+	url = https://github.com/AhmedAmgadElsharkawy/FT-Mixer.git
+[submodule "Multi-Channel-Signal-Viewer"]
+	path = Multi-Channel-Signal-Viewer
+	url = https://github.com/AhmedAmgadElsharkawy/Multi-Channel-Signal-Viewer.git
