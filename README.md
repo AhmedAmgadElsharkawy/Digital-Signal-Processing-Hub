@@ -1,24 +1,16 @@
 # Digital Signal Processing Hub
 
-Welcome to the **Digital Signal Processing Hub**, a collection of innovative projects exploring various aspects of signal processing, visualization, and manipulation. Each project is carefully designed to provide interactive, educational, and practical experiences with real-world applications.
+Welcome to the **Digital Signal Processing Hub**, a collection of innovative desktop applications exploring various aspects of signal processing, visualization, and manipulation. Each application is carefully designed to provide interactive, educational, and practical experiences with real-world applications.
 
-## Table of Contents
-- [Projects Overview](#projects-overview)
-  - [Signal Equalizer](#signal-equalizer)  
-  - [FT-Mixer](#ft-mixer)  
-  - [Beamforming Simulator](#beamforming-simulator)  
-  - [Fingerprint](#fingerprint)  
-  - [Multi-Channel Signal Viewer](#multi-channel-signal-viewer)  
-  - [Sampling Theory Studio](#sampling-theory-studio)  
-- [Contributors](#contributors)
-
-## Projects Overview
+## applications Overview
 
 ### Signal Equalizer
 <div align="center">
   <img src="assets/signal_equalizer_preview.png" />
 </div>
-A desktop app for adjusting signal frequencies in real time. Features include Fourier visualization, dynamic spectrograms, noise removal, and multiple modes such as:
+</br>
+<p>A desktop app for adjusting signal frequencies in real time. Features include Fourier visualization, noise removal, and multiple modes such as:</p>
+
 <ul>
   <li><strong>Uniform Range</strong>: Adjust frequencies with equal emphasis across the spectrum.</li>
   <li><strong>Music & Vowels Mix</strong>: Fine-tune signals specific to vocal and instrumental harmonics.</li>
@@ -33,7 +25,9 @@ A desktop app for adjusting signal frequencies in real time. Features include Fo
 <div align="center">
   <img src="assets/ft_mixer_preview.png" />
 </div>
-Demonstrate the importance of magnitude and phase in 2D Fourier transforms using images. Key features:
+</br>
+<p>Demonstrate the importance of magnitude and phase in 2D Fourier transforms using images. Key features:</p>
+
 <ul>
   <li><strong>Image Manipulation</strong>: Modify and explore Fourier Transform components.</li>
   <li><strong>Mixing Modes</strong>: Experiment with magnitude/phase or real/imaginary domains.</li>
@@ -47,7 +41,9 @@ Demonstrate the importance of magnitude and phase in 2D Fourier transforms using
 <div align="center">
   <img src="assets/beamforming_preview.png" />
 </div>
-Simulate 2D beamforming with customizable parameters such as transmitter/receiver configurations, phase shifts, and frequencies. Highlights:
+</br>
+<p>Simulate 2D beamforming with customizable parameters such as transmitter/receiver configurations, phase shifts, and frequencies. Highlights:</p>
+
 <ul>
   <li><strong>Real-Time Beam Steering</strong>: Visualize dynamic beam adjustments.</li>
   <li><strong>Phased Array Units</strong>: Explore multiple unit configurations.</li>
@@ -61,7 +57,9 @@ Simulate 2D beamforming with customizable parameters such as transmitter/receive
 <div align="center">
   <img src="assets/fingerprint_preview.png" />
 </div>
-A music and vocals identification app based on spectrograms and perceptual hashing. Features include:
+</br>
+<p>A music and vocals identification app based on spectrograms and perceptual hashing. Features include:</p>
+
 <ul>
   <li><strong>Spectrogram Generation</strong>: Visualize audio signals for detailed analysis.</li>
   <li><strong>Feature Extraction</strong>: Extract meaningful characteristics from audio files.</li>
@@ -76,7 +74,9 @@ A music and vocals identification app based on spectrograms and perceptual hashi
 <div align="center">
   <img src="assets/multi_channel_signal_viewer.png" />
 </div>
-A real-time visualization tool for multi-channel signals (e.g., ECG, EEG). Features include:
+</br>
+<p>A real-time visualization tool for multi-channel signals (e.g., ECG, EEG). Features include:</p>
+
 <ul>
   <li><strong>Linked Cine Viewers</strong>: Analyze multiple channels synchronously.</li>
   <li><strong>Signal Manipulation</strong>: Transfer, crop, and glue signals seamlessly.</li>
@@ -90,7 +90,9 @@ A real-time visualization tool for multi-channel signals (e.g., ECG, EEG). Featu
 <div align="center">
   <img src="assets/sampling_theory_studio_preview.png" />
 </div>
-Explore signal sampling and reconstruction based on the Nyquist-Shannon theorem. Features include:
+</br>
+<p>Explore signal sampling and reconstruction based on the Nyquist-Shannon theorem. Features include:</p>
+
 <ul>
   <li><strong>Signal Mixing</strong>: Combine multiple signal sources for analysis.</li>
   <li><strong>Sampling Control</strong>: Interactive sampling rate adjustments.</li>
