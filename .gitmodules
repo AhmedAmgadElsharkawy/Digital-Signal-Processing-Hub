@@ -4,9 +4,6 @@
 [submodule "Beamforming-Simulator"]
 	path = Beamforming-Simulator
 	url = https://github.com/AhmedAmgadElsharkawy/Beamforming-Simulator.git
-[submodule "Fingerprint"]
-	path = Fingerprint
-	url = https://github.com/AhmedAmgadElsharkawy/Fingerprint.git
 [submodule "Sampling-Theory-Studio"]
 	path = Sampling-Theory-Studio
 	url = https://github.com/AhmedAmgadElsharkawy/Sampling-Theory-Studio.git
@@ -16,3 +13,6 @@
 [submodule "Multi-Channel-Signal-Viewer"]
 	path = Multi-Channel-Signal-Viewer
 	url = https://github.com/AhmedAmgadElsharkawy/Multi-Channel-Signal-Viewer.git
+[submodule "Audio-Fingerprinting"]
+	path = Audio-Fingerprinting
+	url = https://github.com/AhmedAmgadElsharkawy/Audio-Fingerprinting.git

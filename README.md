@@ -53,7 +53,7 @@ Welcome to the **Digital Signal Processing Hub**, a collection of innovative des
 
 <hr style="border: 1px solid #ccc;"/>
 
-### Fingerprint
+### Audio-Fingerprinting
 <div align="center">
   <img src="assets/fingerprint_preview.png" />
 </div>
