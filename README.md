@@ -21,6 +21,28 @@ Welcome to the **Digital Signal Processing Hub**, a collection of innovative des
 
 <hr style="border: 1px solid #ccc;"/>
 
+### Digital Filter Designer
+<div align="center">
+  <img src="assets/digital_filter_designer_preview.png" />
+</div>
+</br>
+<p>A desktop application for designing custom digital filters via zero-pole placement on the z-plane. The application enables interactive filter creation, real-time visualization, and C code generation.</p>
+
+<ul>
+  <li><strong>Interactive Z-Plane Editor</strong>: Place, modify, and delete zeros and poles with ease.</li>
+  <li><strong>Graphical Manipulation</strong>: Drag and reposition zeros/poles dynamically.</li>
+  <li><strong>Zero-Pole Swapping</strong>: Swap all zeros with poles and vice versa.</li>
+  <li><strong>Undo/Redo Functionality</strong>: Easily revert or redo changes.</li>
+  <li><strong>Save & Load Filters</strong>: Export and import filter designs using CSV files.</li>
+  <li><strong>Real-Time Filtering</strong>: Apply the designed filter to an input signal and visualize the response.</li>
+  <li><strong>Frequency Response Visualization</strong>: Display magnitude and phase response plots.</li>
+  <li><strong>Phase Correction with All-Pass Filters</strong>: Compensate for phase shifts all-pass filters.</li>
+  <li><strong>Built-in Digital Filter Library</strong>: Includes Butterworth, Chebyshev, Inverse Chebyshev, Bessel, and Elliptic filters.</li>
+</ul>
+
+
+<hr style="border: 1px solid #ccc;"/>
+
 ### FT-Mixer
 <div align="center">
   <img src="assets/ft_mixer_preview.png" />
